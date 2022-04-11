@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">
 
-React DatePicker
+React DatePicker (fork with [onClear](https://github.com/abs/react-datepicker/commit/908aa86686e5e81e9e77939e38324f509502ffb4) support)
 
 </h1>
 
